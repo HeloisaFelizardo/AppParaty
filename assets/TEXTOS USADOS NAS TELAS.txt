@@ -1,0 +1,38 @@
+TEXTOS USADOS NAS TELAS
+
+- TELA INICIAL
+Paraty
+Saiba o que visitar em paraty.
+Ver Restaurantes
+Ver Passeios
+Ver Hospedagem
+
+- TELA RESTAURANTES
+Bares e Restaurantes
+O prazer da boa comida você encontra em Paraty. Com inúmeras opções de restaurantes, a cidade oferece o melhor da culinária internacional, juntamente à saborosa cozinha caiçara. Confira alguns bares e restaurantes famosos.
+Armazén Mar
+Localização: Rod Rio-Santos
+Bendita's Restaurante
+Localização: Centro Histórico
+SEREIA DO MAR PIZZA-BAR
+Localização: Praia do Jabaquara
+
+- TELA PASSEIOS
+Passeios em Paraty
+O município de Paraty está quase inteiro em área de parques e de preservação ambiental. Muitas são as opções de passeios para quem curte a natureza: passeios de jeep, de bike, caminhadas por trilhas entre outros. Veja dois exemplos:
+Tirolesa
+Rafting
+Canoagem no mangue
+
+- TELA HOSPEDAGEM
+Pousadas e Hotéis em Paraty
+Paraty conta com excelentes hoteis e pousadas cujos preços podem variar de R$200,00 à R$1500,00. Veja algumas pousadas abaixo.
+Pousada Missanga
+Valor médio: R$ 350,00
+Localização: Próx. à Av. Roberto Silveira
+Pousada Morro do Forte
+Valor médio: R$ 450,00
+Localização: Próximo à Praia - Pontal
+Pousada Porto Imperial
+Valor médio: R$ 550,00
+Localização: Centro Histórico
